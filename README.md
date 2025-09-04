@@ -24,9 +24,9 @@ PUP Dash is available on itch.io!
 ## Gameplay
 
 <p align="center">
-  <img src="assets/screenshots/screenshot1.png" alt="Screenshot 1" width="400"/>
-  <img src="assets/screenshots/screenshot2.png" alt="Screenshot 2" width="400"/>
-  <img src="assets/screenshots/screenshot3.png" alt="Screenshot 3" width="400"/>
+  <img src="PUP DASH 7/screenshots/screenshot1.png" alt="Screenshot 1" width="400"/>
+  <img src="PUP DASH 7/screenshots/screenshot2.png" alt="Screenshot 2" width="400"/>
+  <img src="PUP DASH 7/screenshots/screenshot3.png" alt="Screenshot 3" width="400"/>
 </p>
 
 ---
